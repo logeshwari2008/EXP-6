@@ -22,7 +22,7 @@ I. Connect the multimeter at the output of kit..
 OBSERVATION TABLE
 ![WhatsApp Image 2025-12-27 at 6 27 05 PM](https://github.com/user-attachments/assets/a65abaf8-ea95-4f49-b80e-32654acbaa89)
 <img width="1337" height="827" alt="exp 6" src="https://github.com/user-attachments/assets/f7a9af36-145e-43b9-bb7d-37db2def8285" />
-<img width="1329" height="835" alt="exp  6" src="https://github.com/user-attachments/assets/e5dbdaab-4f32-4d79-a16e-89ae3f4dc814" />
+<img width="1339" height="829" alt="exp6" src="https://github.com/user-attachments/assets/a766667c-3a7f-4211-947a-04b6d587d41d" />
 
 PRECAUTION: -
 1. The values on the multimeter should be carefully noted.
